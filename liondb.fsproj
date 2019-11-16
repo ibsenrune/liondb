@@ -6,7 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="JournalDb.fs" />
+    <Compile Include="Test.fs" />
     <Compile Include="Program.fs" />
+    <None Include="Script.fsx" />
   </ItemGroup>
 
 </Project>
